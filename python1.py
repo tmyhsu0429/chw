@@ -1,0 +1,7 @@
+print("大家好")
+print("123456")
+print("    /\  ")
+print("   /  \ ")
+print("  /    \ ")
+print(" -------- ")
+print("    ||   ")
